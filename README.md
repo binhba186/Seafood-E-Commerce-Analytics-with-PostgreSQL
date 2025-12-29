@@ -36,7 +36,7 @@ Marketing campaigns are also recorded to evaluate advertising effectiveness.
 
 ## 4. Data Model & Table Descriptions
 
-![Seafood Database ERD](seafood_schema.png)
+![Seafood Database ERD](Seafood E-Commerce Analytics/seafood_schema.png)
 
 The schema above illustrates the relationship between users, events, products, and campaigns.
 
