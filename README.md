@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This project is a **PostgreSQL case study** focused on analyzing user behavior and sales performance for a **seafood e-commerce website**.  
+This project focus on analyzing user behavior and sales performance for a **seafood e-commerce website**.  
 The website sells premium seafood products across multiple categories and tracks detailed user interactions such as **page views**, **cart additions**, and **purchases**.
 
 The main objectives of this project are to:
